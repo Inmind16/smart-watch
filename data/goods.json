@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Apple Watch SE",
+        "price": "10000",
+        "img": "img/goods/apple_watch_se.jpg",
+        "li1": "OC: IOS",
+        "li2": "ROM: 16GB"
+    },
+    {
+        "id": "2",
+        "name": "Apple Watch 3",
+        "price": "11000",
+        "img": "img/goods/apple_watch_3.jpg",
+        "li1": "OC: IOS",
+        "li2": "ROM: 32GB"
+    },
+    {
+        "id": "3",
+        "name": "Apple Watch 6",
+        "price": "12000",
+        "img": "img/goods/apple_watch_6.jpg",
+        "li1": "OC: IOS",
+        "li2": "ROM: 64GB"
+    },
+    {
+        "id": "4",
+        "name": "Galaxy Watch Active",
+        "price": "9000",
+        "img": "img/goods/galaxy_watch_active.jpg",
+        "li1": "OC: Android",
+        "li2": "ROM: 16GB"
+    },
+    {
+        "id": "5",
+        "name": "Galaxy Watch 3",
+        "price": "10000",
+        "img": "img/goods/galaxy_watch_3.jpg",
+        "li1": "OC: Android",
+        "li2": "ROM: 32GB"
+        
+    },
+    {
+        "id": "6",
+        "name": "Galaxy Watch 6",
+        "price": "11000",
+        "img": "img/goods/galaxy_watch_6.jpg",
+        "li1": "OC: Android",
+        "li2": "ROM: 64GB"
+    }
+]
